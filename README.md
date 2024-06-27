@@ -1,7 +1,8 @@
 # Farbpalette
 
 ## Rot
-## Grün
+## Hellgrün
+## Dunkelgrün
 ## Blau 
 ## Cyan
 ## Magenta
