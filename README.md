@@ -2,6 +2,10 @@
 
 ## Rot
 ## Grün
-## Blau
+## Blau <br>
+## Cyan
+## Magenta
+## Yellow
+## Black
 
 ### sind alle tolle Farben
