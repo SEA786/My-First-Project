@@ -2,9 +2,7 @@
 
 ## Rot
 ## Grün
-## Dunkelgrün
 ## Blau 
-## Dunkelblau
 ## Cyan
 ## Magenta
 ## Yellow
