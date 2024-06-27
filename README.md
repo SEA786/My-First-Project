@@ -3,7 +3,6 @@
 ## Rot
 ## Grün
 ## Blau 
-<br>
 ## Cyan
 ## Magenta
 ## Yellow
