@@ -1,7 +1,7 @@
 // Entscheidungsstrukturen | control flow
 
 // Deklaration + Assignment
-const ageJohn = 40;
+const ageJohn = 30;
 const ageMark = 30;
 
 // Deklaration
@@ -34,6 +34,7 @@ console.log("------------------");
 /************ IF - ELSE ************/
 // mit Alternative
 // entweder ja oder ein
+
 //if (true) 
 //if (false) 
 //if(isJohnOlder)
@@ -45,3 +46,4 @@ else
 {
     console.log ("John ist Jünger"); // false
 }
+
