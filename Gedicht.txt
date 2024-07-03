@@ -1,11 +1,11 @@
-# Farbpalette
+Farbpalette
 
-## Rot
-## Grün
-## Blau 
-## Cyan
-## Magenta
-## Yellow
-## Black
+ Rot
+ Grün
+ Blau 
+Cyan
+Magenta
+Yellow
+Black
 
-### sind alle tolle Farben
+sind alle tolle Farben
