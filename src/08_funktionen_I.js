@@ -20,7 +20,7 @@
 /***** Funktionen 02a *****/
 // 2a. Parametrisierung + Datenübergabe von INNEN
 
-Call
+// Call
 ausgabeNamen();
 
 // funktion
@@ -29,6 +29,6 @@ function ausgabeNamen()
 {
    
    let FirstName = " Eltaf ";
-   
+
     console.log("Hallo, " + FirstName + "!");
 }   
