@@ -32,7 +32,10 @@
 /***** Funktionen 02b *****/
 // 2b. Parametrisierung + Datenübergabe von AUSSEN
 
-ausgabeNamen2();
+
+ausgabeNamen2("Eltaf"); // Argument --> Daten für Parameter
+ausgabeNamen2("Hubert");
+ausgabeNamen2("SABA");
 
 function ausgabeNamen2(FirstName) //parameter
 {
