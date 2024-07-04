@@ -64,28 +64,28 @@ Alter 13-17 // Cola
 //         break;
 // }
          
-const prompt = require('prompt-sync')({sigint: true});
-let firstName = prompt("Vorname?: ");
-let age = parseInt(prompt ("Alter?: "));
-console.log("hier is, " + firstName); 
-console.log(firstName +" ist " + (age) + " jahre alt. ");
+// const prompt = require('prompt-sync')({sigint: true});
+// let firstName = prompt("Vorname?: ");
+// let age = parseInt(prompt ("Alter?: "));
+// console.log("hier is, " + firstName); 
+// console.log(firstName +" ist " + (age) + " jahre alt. ");
 
-// let firstName = "Eltaf"
-// let age =30 
+// // let firstName = "Eltaf"
+// // let age =30 
 
-const cond = true;
+// const cond = true;
 
-switch (cond) {
-    case (0<= age && age <= 5):
-        console.log(firstName+ " " +"can drink milk. ");
-        break;
-    case (6<= age && age <=12):
-        console.log(firstName + " " +"can drink juice. ");
-        break;
-    case(13<= age && age <=17):
-        console.log(firstName + " " +"can drink cola. ")
-        break;
-    default:
-        console.log(firstName + " " + "can drink wein! ");
-        break;
-}
+// switch (cond) {
+//     case (0<= age && age <= 5):
+//         console.log(firstName+ " " +"can drink milk. ");
+//         break;
+//     case (6<= age && age <=12):
+//         console.log(firstName + " " +"can drink juice. ");
+//         break;
+//     case(13<= age && age <=17):
+//         console.log(firstName + " " +"can drink cola. ")
+//         break;
+//     default:
+//         console.log(firstName + " " + "can drink wein! ");
+//         break;
+// }
