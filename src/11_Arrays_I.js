@@ -63,7 +63,7 @@
 // arr[0],arr[1] ... arr[n-1] :: Numerische Struktur (0,1,2,3 ... n)
 // --> Transformation semantisches Problem --> numerisches Problem
 
-output(getSentenceArr(["Ich","bin","die","coole","Maxine","Mützerich"]));
+output (getSentence(["Ich","bin","die","coole","Maxine","Mützerich"]));
 
 function getSentence(arr) {
     const GAP = " ";
