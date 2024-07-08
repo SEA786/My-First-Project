@@ -16,7 +16,7 @@
 
 /*** 01. Funktionalität mit Einzelparametern */
 // --> "Ich bin Max Mütze."
-// output(getSentence("Ich","bin","Max","Mütze"));
+ output(getSentence("Ich","bin","Max","Mütze"));
 // output(getSentence("Ich","bin","die","coole","Maxine","Mützerich"));
 function getSentence(word1,word2,word3,word4) {
     const GAP = " ";
