@@ -118,19 +118,19 @@ hier: Verkettung eines Strings // Transponierung
 // arr[0],arr[1] ... arr[n-1] :: Numerische Struktur (0,1,2,3 ... n)
 // --> Transformation semantisches Problem --> numerisches Problem
 // output(getSentenceArr(["Ich","bin","die","coole","Maxine","Mützerich"]));
-// function getSentenceArr(arr) {
-//     const GAP = " ";
-//     const PUNCT = ".";
-//     let str =   arr[0] + GAP +
-//                 arr[1] + GAP +
-//                 arr[2] + GAP +
-//                 arr[3] + GAP +
-//                 arr[4] + GAP +
-//                 arr[5] +
-//                 PUNCT;
+function getSentenceArr(arr) {
+    const GAP = " ";
+    const PUNCT = ".";
+    let str =   arr[0] + GAP +
+                arr[1] + GAP +
+                arr[2] + GAP +
+                arr[3] + GAP +
+                arr[4] + GAP +
+                arr[5] +
+                PUNCT;
 
-//     return str;
-// }
+    return str;
+}
 
 
 /*** 01b. Funktionalität mit Array 2  */
@@ -172,7 +172,6 @@ function getSentenceArr2(arr) {
 
 
 // Modul: Ausgabe in Konsole : Test
-// output("hi"); 
 function output(outputStr) {
     console.log(outputStr);
 }

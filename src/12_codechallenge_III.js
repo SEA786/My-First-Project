@@ -34,7 +34,6 @@ function getSentence(arr, op) {
 
 
 // Modul: Ausgabe in Konsole : Test
-// output("hi"); 
 function output(outputData) {
     console.log(outputData);
 }
